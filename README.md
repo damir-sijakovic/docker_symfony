@@ -33,6 +33,8 @@ pass: `dsijakSymfony`
 ## server_shell.sh
 Run this script to get `composer` and `symfony maker bundle` commands inside containers terminal.
 
+## Any issues?
+Install `Portainer` and remove all active containers and volumes and then run `start.sh`.
 
 ## Created/tested with:
 5.4.118-1-MANJARO/xfce4, docker, portainer.
